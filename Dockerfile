@@ -1,4 +1,4 @@
-FROM alpine:3.10 AS ip-whitelist-on-hetznerfw
+FROM alpine:3.21 AS ip-whitelist-on-hetznerfw
 
 LABEL authors="Adnan Al Jawabra"
 
